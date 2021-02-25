@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /fundoo/manage.py
+  - source: /
     destination: /var/www/html/
 hooks:
   BeforeInstall:
