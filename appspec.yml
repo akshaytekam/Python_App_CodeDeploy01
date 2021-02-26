@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /fundoo/manage.py
-    destination: /home/ec2-user/new_chatapp
+    destination: /home/ec2-user/Demo-App
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
