@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'Djangodatabase',
         'USER': 'mysqldb2021',
         'PASSWORD': 'mysqldb2021',
-        'HOST': 'mysqldb2021.csxgqr9dgih9.ap-south-1.rds.amazonaws.com'',
+        'HOST': 'mysqldb2021.csxgqr9dgih9.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
